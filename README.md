@@ -10,4 +10,5 @@ You can easily cover file names from LEFT list (source list) to RIGHT list (dest
 Currently, only 64bit version on Win OS available.
 
 If any bugs please report!
+
 Hope you enjoy it.

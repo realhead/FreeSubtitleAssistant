@@ -1,4 +1,6 @@
 # fresubass
+FreeSubtitleAssistant
+
 This is your best assistant to rename video and subtitle file names. 
 
 We all come into this situation which video and subtitle names are not match, then we have to drag subtitle file into player every time, again and again. FreeSubtitleAssistant is a free, simple, quick, light software to solve this problem.

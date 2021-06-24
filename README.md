@@ -12,7 +12,7 @@ As the file names are cooresponding, player would load them automatically.
 
 ## Need to know...
 Currently, only WIN-64bit version released.<br>
-You have to build yourseld to meet your need.
+You have to build yourself to meet your need.
 
 ## Features
 * 100 files each list maximum.

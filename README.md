@@ -7,7 +7,8 @@ FreeSubtitleAssistant is a ***free, simple, quick, light*** software to solve th
 
 ## How to...
 You can easily cover file names from LEFT list `source list` to RIGHT list `destination list`.<br>
-Just be ware don't mess up ***the direction***. `from left to right`
+Just be ware don't mess up ***the direction***. `from left to right`<br>
+As the file names are cooresponding, player would load them automatically.
 
 ## Need to know...
 Currently, only WIN-64bit version released.<br>

@@ -19,5 +19,6 @@ You have to build yourself to meet your need.
 * Adjusting file sequence in list.`up` `down` `remove`
 
 ## Issues
+Didn't test under other OS except WINDOWS.<br>
 If any bugs please report!<br>
 Hope you enjoy it.

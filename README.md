@@ -11,7 +11,7 @@ Just be ware don't mess up ***the direction***. `from left to right`
 
 ## Need to know...
 Currently, only WIN-64bit version released.<br>
-You have to build yourseld if need Linux version.
+You have to build yourseld to meet your need.
 
 ## Features
 * 100 files each list maximum.

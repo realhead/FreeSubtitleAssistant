@@ -1,24 +1,23 @@
 # FreeSubtitleAssistant
-This is your best assistant to rename video and subtitle file names, wrote by C++/QT.
+We always come into such situation in which video and subtitle names are not match, then we have to drag subtitle file into player every time.
+FreeSubtitleAssistant is a ***free, simple, quick, light*** software to solve this problem.  
+  
+批量修改字幕文件名的小玩意儿。
 
-##  What for...
-We all come into this situation which video and subtitle names are not match, then we have to drag subtitle file into player every time, again and again. <br>
-FreeSubtitleAssistant is a ***free, simple, quick, light*** software to solve this problem.<br>
 
-## How to...
-You can easily cover file names from LEFT list `source list` to RIGHT list `destination list`.<br>
-Just be ware don't mess up ***the direction***. `from left to right`<br>
-As the file names are cooresponding, player would load them automatically.
+## GUI  
+<a href="https://ibb.co/tDmkMdh"> <img src="https://i.ibb.co/rH7TGWt/fsa.jpg" alt="fsa" border="0"></a>
 
-## Need to know...
-Currently, only WIN-64bit version released.<br>
-Otherwise, you have to build by yourself to meet your need.
+## Instructions
+`Up`and`Dn` Adjust selecting file's rank in queue.  
+`Re` Rename LEFT files name, according RIGHT queue.
+  
+`Up`和`Dn`键调整文件在队列中的顺序。  
+ `Re`将左列文件名按照右列文件名重新命名。
 
-## Features
-* 100 files each list maximum.
-* Adjusting file sequence in list.`up` `down` `remove`
+## Misc
+100 files maximum in each queue.   
+单队列最大支持100个文件。  
 
-## Issues
-Didn't test under other OS except WINDOWS.<br>
-If any bugs please report!<br>
-Hope you enjoy it.
+## Powered by
+![ ](https://i.ibb.co/XS0XtF1/qt.jpg)

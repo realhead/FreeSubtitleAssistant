@@ -3,7 +3,8 @@
 We always come into such situation in which video and subtitle names are not match, then we have to drag subtitle file into player every time.
 FreeSubtitleAssistant is a ***free, simple, quick, light*** software to solve this problem.  
   
-批量修改字幕文件名的小玩意儿。
+本地看剧最烦的事，莫过于字幕文件名不匹配，需要手动拖动进播放器才可以显示。  
+而这里，就是一个批量同步字幕文件名的小玩意儿。
 
 
 ## GUI  

@@ -1,4 +1,5 @@
 # FreeSubtitleAssistant
+![ ](https://i.ibb.co/Q8htwyK/qt-logo.jpg)  
 We always come into such situation in which video and subtitle names are not match, then we have to drag subtitle file into player every time.
 FreeSubtitleAssistant is a ***free, simple, quick, light*** software to solve this problem.  
   
@@ -17,7 +18,4 @@ FreeSubtitleAssistant is a ***free, simple, quick, light*** software to solve th
 
 ## Misc
 100 files maximum in each queue.   
-单队列最大支持100个文件。  
-
-## Powered by
-![ ](https://i.ibb.co/XS0XtF1/qt.jpg)
+单队列最大支持100个文件。

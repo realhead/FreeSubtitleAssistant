@@ -6,7 +6,7 @@ FreeSubtitleAssistant is a ***free, simple, quick, light*** software to solve th
 
 
 ## GUI  
-<a href="https://ibb.co/tDmkMdh"> <img src="https://i.ibb.co/rH7TGWt/fsa.jpg" alt="fsa" border="0"></a>
+![ ](https://i.ibb.co/rH7TGWt/fsa.jpg)
 
 ## Instructions
 `Up`and`Dn` Adjust selecting file's rank in queue.  

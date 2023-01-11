@@ -16,10 +16,10 @@ MW::MW(QWidget *parent)
     ui->LeftBrowser->setRowCount(100);
     ui->RightBrowser->setRowCount(100);
     ui->LeftBrowser->setColumnWidth(0, 200);
-    ui->LeftBrowser->setColumnWidth(1, 100);
+    ui->LeftBrowser->setColumnWidth(1, 110);
     ui->LeftBrowser->setColumnWidth(3, 100);
     ui->RightBrowser->setColumnWidth(0, 200);
-    ui->RightBrowser->setColumnWidth(1, 100);
+    ui->RightBrowser->setColumnWidth(1, 110);
     ui->RightBrowser->setColumnWidth(3, 100);
     //select file and fill table
     connect(ui->LeftOpenBtn, &QPushButton::clicked, [ = ]()

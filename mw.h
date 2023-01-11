@@ -17,7 +17,10 @@
 #include <QMenuBar>
 
 QT_BEGIN_NAMESPACE
-namespace Ui { class MW; }
+namespace Ui
+{
+    class MW;
+}
 QT_END_NAMESPACE
 
 class MW : public QMainWindow
@@ -47,7 +50,7 @@ public:
     void DownRightFile();
     void DelRightFile();
 
-    bool renamebool=false;
+    bool renamebool = false;
 
 private:
     Ui::MW *ui;
@@ -71,8 +74,8 @@ private:
     QVector<QString>RightFileSizes;
     QVector<QDateTime>RightFileDates;
 
-    int LeftRow=-1;
-    int RightRow=-1;
+    int LeftRow = -1;
+    int RightRow = -1;
     QString ltemStr;
     QDateTime ltemDat;
     QString rtemStr;

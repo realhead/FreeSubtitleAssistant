@@ -16,10 +16,10 @@ MW::MW(QWidget *parent)
     ui->LeftBrowser->setRowCount(100);
     ui->RightBrowser->setRowCount(100);
     ui->LeftBrowser->setColumnWidth(0, 200);
-    ui->LeftBrowser->setColumnWidth(1, 200);
+    ui->LeftBrowser->setColumnWidth(1, 100);
     ui->LeftBrowser->setColumnWidth(3, 100);
     ui->RightBrowser->setColumnWidth(0, 200);
-    ui->RightBrowser->setColumnWidth(1, 200);
+    ui->RightBrowser->setColumnWidth(1, 100);
     ui->RightBrowser->setColumnWidth(3, 100);
     //select file and fill table
     connect(ui->LeftOpenBtn, &QPushButton::clicked, [ = ]()
@@ -143,7 +143,7 @@ void MW::FillLeftTable()
     for(int li = 0; li < LeftFileFNames.size(); li++)
     {
         ui->LeftBrowser->setItem(li, 0, new QTableWidgetItem(LeftFileFNames.at(li)));
-        ui->LeftBrowser->setItem(li, 1, new QTableWidgetItem(LeftFileDates.at(li).toString()));
+        ui->LeftBrowser->setItem(li, 1, new QTableWidgetItem(LeftFileDates.at(li).toString("yy/MM/dd hh:mm")));
         ui->LeftBrowser->setItem(li, 2, new QTableWidgetItem(LeftFileSizes.at(li)));
     }
 }
@@ -156,7 +156,7 @@ void MW::FillRightTable()
     for(int ri = 0; ri < RightFileFNames.size(); ri++)
     {
         ui->RightBrowser->setItem(ri, 0, new QTableWidgetItem(RightFileFNames.at(ri)));
-        ui->RightBrowser->setItem(ri, 1, new QTableWidgetItem(RightFileDates.at(ri).toString()));
+        ui->RightBrowser->setItem(ri, 1, new QTableWidgetItem(RightFileDates.at(ri).toString("yy/MM/dd hh:mm")));
         ui->RightBrowser->setItem(ri, 2, new QTableWidgetItem(RightFileSizes.at(ri)));
     }
 }

@@ -12,10 +12,10 @@ FreeSubtitleAssistant is a ***free, simple, quick, light*** software to solve th
 
 ## Instructions
 `Up`and`Dn` Adjust selecting file's rank in queue.  
-`Re` Rename LEFT files name, according RIGHT queue.
+`Del` Delete selected file.
   
 `Up`和`Dn`键调整文件在队列中的顺序。  
- `Re`将左列文件名按照右列文件名重新命名。
+ `Del` 删除选中文件。
 
 ## Misc
 100 files maximum in each queue.   
